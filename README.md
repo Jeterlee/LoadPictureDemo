@@ -1,9 +1,9 @@
 # LoadPictureDemo
 
-[**glide**](https://github.com/bumptech/glide)
-[**picasso**](https://github.com/square/picasso)
-[**fresco**](https://github.com/facebook/fresco)
-[**Android-Universal-Image-Loader**](https://github.com/nostra13/Android-Universal-Image-Loader)
+- [**glide**](https://github.com/bumptech/glide)
+- [**picasso**](https://github.com/square/picasso)
+- [**fresco**](https://github.com/facebook/fresco)
+- [**Android-Universal-Image-Loader**](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 # License
 
