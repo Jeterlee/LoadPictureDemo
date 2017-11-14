@@ -5,6 +5,12 @@
 - [**fresco**](https://github.com/facebook/fresco)
 - [**Android-Universal-Image-Loader**](https://github.com/nostra13/Android-Universal-Image-Loader)
 
+
+## 参考资料
+
+- [Glide v4 使用教程与详细文档](http://www.apkbus.com/blog-873055-75813.html)
+
+
 # License
 
 ```
