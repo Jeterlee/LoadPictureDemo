@@ -1,13 +1,17 @@
-# LoadPictureDemo
+# LoadPictureFramework
+**项目说明：图片加载框架，主要包含热门的图片加载框架，以及各个框架间的优缺点对比。**
 
-- [**glide**](https://github.com/bumptech/glide)
-- [**picasso**](https://github.com/square/picasso)
-- [**fresco**](https://github.com/facebook/fresco)
-- [**Android-Universal-Image-Loader**](https://github.com/nostra13/Android-Universal-Image-Loader)
+
+## 图片加载框架
+No.|Name|Version|Remark
+:-:|:--:|:-----:|:----:
+1|[glide](https://github.com/bumptech/glide)||
+2|[picasso](https://github.com/square/picasso)||
+3|[fresco](https://github.com/facebook/fresco)||
+4|[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)||
 
 
 ## 参考资料
-
 - [Glide v4 使用教程与详细文档](http://www.apkbus.com/blog-873055-75813.html)
 
 
